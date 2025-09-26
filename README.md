@@ -1,1 +1,1 @@
-# Excel-Vrinda Store Data Analysis Project
+# Excel-Store Data Analysis Project
